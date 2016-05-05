@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-	<stdio.h>
-	<stdlib.h>
+1461765777 source:d:\laughing\codeblock\cbasic\main.c
+	"stdio.h"
+	<math.h>
 
